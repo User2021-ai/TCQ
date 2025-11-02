@@ -16,8 +16,9 @@ The associated paper to this repository can be found here:<br>
  
 
 ## Abstract
+<p align="justify">
 Maximizing information propagation in complex networks is essential for shaping public discourse, optimizing marketing strategies, and driving social change. Traditional influence maximization approaches often emphasize network topology, neglecting the critical need to align strategies with user semantics to influence specific user groups effectively. To address this issue, we introduce the Targeted Core-based Q-learning framework (TCQ), a hybrid optimization approach that draws inspiration from evolutionary network structures derived from K-core decomposition, tailored to tackle the problem of targeted influence maximization (TIM). TCQ integrates semantic insights (e.g., interests, demographics, or topical categories) with the network structure by combining a target-based probabilistic scoring function with K-core evolutionary hierarchies, enabling the efficient identification of key influential candidates within the network. Leveraging reinforcement learning, TCQ dynamically optimizes its seed selection policy through a process of exploration and exploitation in order to minimize influence overlap among selected seeds while maintaining adaptability across diverse network scenarios. Extensive experiments on real-world and synthetic networks demonstrate that TCQ not only maximizes targeted influence effectively but also achieves computational efficiency, showcasing its potential for optimizing influence propagation in complex networks.
-
+</p>
 ## Keywords
 Complex networks · Targeted influence maximization· K-core hierarchies· Reinforcement learning· Seed node optimization
   
