@@ -2,8 +2,11 @@
 
  
 ## TCQ
- The repository contains an implementation of Targeted Core-based Q-learning framework (TCQ),   a hybrid optimization approach that draws inspiration from evolutionary network structures derived from K-core decomposition, tailored to tackle the problem of targeted influence maximization (TIM) problem in complex networks.
-
+p align="center">
+  The repository contains an implementation of <b>Targeted Core-based Q-learning framework (TCQ)</b>,  
+  a hybrid optimization approach that draws inspiration from evolutionary network structures derived from <b>K-core decomposition</b>,  
+  tailored to tackle the problem of <b>targeted influence maximization (TIM)</b> in complex networks.
+</p>
  
  
  
